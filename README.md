@@ -1,5 +1,6 @@
 # FillIt
 Удобная программа для автоматической генерации документов Word (.docx) на основе шаблонов с ключами.
+![image](https://github.com/user-attachments/assets/5b54b4c7-0d95-443a-b3d1-580059b41f5a)
 
 ---
 
